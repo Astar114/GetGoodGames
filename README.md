@@ -1,4 +1,4 @@
-# Get Good Games: A Fast Roblox Game Scraper
+# Get Good Games: Fast Roblox Scraper with Filter
 **Roblox Games API Scraper that can quickly scan games, votes, badges and more!**
 
 ![image](https://github.com/Astar114/GetGoodGames/assets/111279655/e8a75b55-35ec-44a9-8f5b-0c5caa9033ed)
