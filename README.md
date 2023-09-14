@@ -8,7 +8,7 @@ Comes with filters you can adjust to find games you'd like to find:
 - Favorites & visits
 - Badge count & rarest badge (for badge hunters like myself)
 
-Speed can go up to 1000+ games per second!
++ Speed can go up to 1000+ games per second!
 
 # How to use
 - Run 'run.bat' to run program	
