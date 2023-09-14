@@ -6,6 +6,7 @@ These include:
 - Like/dislike ratio
 - Popularity (Likes + Dislikes)
 - Favorites & visits
+- Badge count & rarest badge (for badge hunters like myself)
 
 # How to use
 - Run 'run.bat' to run program	
