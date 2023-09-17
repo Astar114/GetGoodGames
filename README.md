@@ -19,7 +19,7 @@
 - Badge count & rarest badge (for badge hunters like myself)
 
 # How to use:
-1. Install Python & libraries from **requirements.txt**
+1. Install Python & pip install **requirements.txt**
 2. Run **'run.bat'** to run program	
 3. Use an SQlite program like *DB Browser for SQLite* to view the database
 - Change settings by editing **'scraper.py'** 
